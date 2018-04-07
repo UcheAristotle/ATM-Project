@@ -1,0 +1,2 @@
+# ATM-Project
+This is an interactive atumated teller machine (ATM) system developed for those in the rural areas who may may be able to read. It has a functionality of disabling every othe keys and buttons  except those that are important to the opeartion you want to perform. It is just a demo project. I wish someone can build more on this to get something that can solve more reasonable challenges. This project was developed to control the intended project of 3D Africa students of the company of employment (YTF).
